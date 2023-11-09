@@ -1,0 +1,7 @@
+C:\mphasis-B2\Day-4\Assignments\Part1-Variables and Data Types\Part-1variable and datatypes\Part-1variable and datatypes\bin\Debug\Part-1variable and datatypes.exe.config
+C:\mphasis-B2\Day-4\Assignments\Part1-Variables and Data Types\Part-1variable and datatypes\Part-1variable and datatypes\bin\Debug\Part-1variable and datatypes.exe
+C:\mphasis-B2\Day-4\Assignments\Part1-Variables and Data Types\Part-1variable and datatypes\Part-1variable and datatypes\bin\Debug\Part-1variable and datatypes.pdb
+C:\mphasis-B2\Day-4\Assignments\Part1-Variables and Data Types\Part-1variable and datatypes\Part-1variable and datatypes\obj\Debug\Part-1variable and datatypes.csproj.AssemblyReference.cache
+C:\mphasis-B2\Day-4\Assignments\Part1-Variables and Data Types\Part-1variable and datatypes\Part-1variable and datatypes\obj\Debug\Part-1variable and datatypes.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\Day-4\Assignments\Part1-Variables and Data Types\Part-1variable and datatypes\Part-1variable and datatypes\obj\Debug\Part-1variable and datatypes.exe
+C:\mphasis-B2\Day-4\Assignments\Part1-Variables and Data Types\Part-1variable and datatypes\Part-1variable and datatypes\obj\Debug\Part-1variable and datatypes.pdb
